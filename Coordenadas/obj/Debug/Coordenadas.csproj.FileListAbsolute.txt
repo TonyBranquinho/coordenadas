@@ -1,0 +1,7 @@
+C:\temp\ws-vs2019\Coordenadas\Coordenadas\bin\Debug\Coordenadas.exe.config
+C:\temp\ws-vs2019\Coordenadas\Coordenadas\bin\Debug\Coordenadas.exe
+C:\temp\ws-vs2019\Coordenadas\Coordenadas\bin\Debug\Coordenadas.pdb
+C:\temp\ws-vs2019\Coordenadas\Coordenadas\obj\Debug\Coordenadas.csproj.AssemblyReference.cache
+C:\temp\ws-vs2019\Coordenadas\Coordenadas\obj\Debug\Coordenadas.csproj.CoreCompileInputs.cache
+C:\temp\ws-vs2019\Coordenadas\Coordenadas\obj\Debug\Coordenadas.exe
+C:\temp\ws-vs2019\Coordenadas\Coordenadas\obj\Debug\Coordenadas.pdb
